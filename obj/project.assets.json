@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ozer/Repository/Repository.csproj",
+      "projectUniqueName": "/home/ozer/Repository/VisualStudio01/Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "/home/ozer/Repository/Repository.csproj",
+      "projectPath": "/home/ozer/Repository/VisualStudio01/Repository.csproj",
       "packagesPath": "/home/ozer/.nuget/packages/",
-      "outputPath": "/home/ozer/Repository/obj/",
+      "outputPath": "/home/ozer/Repository/VisualStudio01/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
